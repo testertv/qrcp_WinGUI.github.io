@@ -1,6 +1,7 @@
 <a href="https://github.com/testertv/tpdne.github.io"><img src="https://raw.githubusercontent.com/testertv/qrcp_WinGUI.github.io/main/Imgs/title.png?raw=true" alt="test-pattern-152459-1280" border="0"></a>
 <h1 style="text-align: center;"><span style="color: #3366ff;"><strong>qrcp_WinGUI</strong></span></h1>
-qrcp_WinGUI is a simple GUI for "qrcp" to transfer files over Wi-Fi from your PC to a mobile device by scanning a QR code. It's works without internet connection.
+qrcp_WinGUI is a simple GUI for "qrcp" to transfer files over Wi-Fi between your PC and mobile device by scanning a QR code. It's not necessary to install program or app. It's works without internet connection.
+
 The GUI was created in VB.net 2010.
 
 
