@@ -10,7 +10,7 @@ The GUI was created in VB.net 2010.
 
 - First Beta version for download: https://github.com/testertv/qrcp_WinGUI.github.io/raw/main/Exe-Files/qrcp_WinGUI_2022.04.23.zip
 
-<h3 style="text-align: center;"><span style="color: #3366ff;"><strong>Attention: the path where the program is located must not contain "spaces" or "non-English letters".</strong></span></h3>
+<h3 style="text-align: center;"><span style="color: #3366ff;"><strong>Attention: the path where the program is located must not contain "spaces" or "non-English letters". The same applies to the files and directories that are transferred.</strong></span></h3>
 
 <h2 style="text-align: center;"><span style="color: #3366ff;"><strong>How does it work?</strong></span></h2>
 
