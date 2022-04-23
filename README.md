@@ -26,5 +26,6 @@ qrcp and the GUI are portable, which means no installation is necessary. Just ru
 
 
 
-qrcp_source:https://github.com/claudiodangelis/qrcp
+qrcp_source: https://github.com/claudiodangelis/qrcp
+
 P.S.: I am not a programmer, so do not judge strictly my code!:)
