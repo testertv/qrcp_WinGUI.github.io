@@ -30,6 +30,14 @@ The program is portable, but you need to put the "qrcp.exe" file in the "qrcp_Wi
 <a href="https://github.com/claudiodangelis/qrcp" alt=""><img src="https://img.shields.io/badge/Download-qrcp-blue.svg"></a> 
 </p><p align="center">
 
+<h2 align="center"><b>How does it work?</b></h2>
+<h3 ><b>Send file(s) / folder(s)</b></h3>
+<p align="center"><a href=""><img src="https://raw.githubusercontent.com/testertv/qrcp_WinGUI.github.io/main/Imgs/scr2.png"></a></p>
+
+<h3 ><b>Recieve file(s)</b></h3>
+<p align="center"><a href=""><img src="https://raw.githubusercontent.com/testertv/qrcp_WinGUI.github.io/main/Imgs/scr3.png"></a></p>
+
+
 <h2 align="center"><b>Important inforamtion</b></h2>
 The path where the program is located must not contain non-English letters or spaces.
 
