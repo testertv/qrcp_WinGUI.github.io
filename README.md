@@ -22,7 +22,7 @@ qrcp_WinGUI is a simple GUI for "qrcp" to transfer files over Wi-Fi between your
 
 <h2 align="center"><b>Installation</b></h2>
 <p align="center"> 
-<a href="https://github.com/testertv/qrcp_WinGUI.github.io/raw/main/Exe-Files/qrcp_WinGUI_2022.04.23.zip" alt="License: GPLv3"><img src="https://img.shields.io/badge/Download-qrcp_WinGUI-brightgreen.svg" width="250"></a>  
+<a href="https://github.com/testertv/qrcp_WinGUI.github.io/raw/main/Exe-Files/qrcp_WinGUI_2022.04.23.zip" alt="License: GPLv3"><img src="https://img.shields.io/badge/Download-qrcp__WinGUI-brightgreen.svg" width="250"></a>  
 </p><p align="center">
 
 The program is portable, but you need to put the "qrcp.exe" file in the "qrcp_WinGUI" folder. 
