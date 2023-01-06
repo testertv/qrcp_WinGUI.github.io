@@ -1,31 +1,39 @@
-<a href="https://github.com/testertv/tpdne.github.io"><img src="https://raw.githubusercontent.com/testertv/qrcp_WinGUI.github.io/main/Imgs/title.png?raw=true" alt="test-pattern-152459-1280" border="0"></a>
-<h1 style="text-align: center;"><span style="color: #3366ff;"><strong>qrcp_WinGUI</strong></span></h1>
+<p align="center"><a href="https://github.com/testertv"><img src="https://raw.githubusercontent.com/testertv/qrcp_WinGUI.github.io/main/Imgs/title.png?raw=true"></a></p> 
+
+
+
+<h1 align="center"><b>qrcp_WinGUI</b></h1>
+
+<p align="center">  
+<a href="https://www.gnu.org/licenses/gpl-3.0" alt="License: GPLv3"><img src="https://img.shields.io/badge/License-GPLv3-brightgreen.svg"></a>  
+<a href="" alt="License: GPLv3"><img src="https://img.shields.io/badge/Platform-Windows-brightgreen.svg"></a>
+<a href="" alt=""><img src="https://img.shields.io/badge/SW--Kind-Portable-orange"></a>
+<a href="" alt="License: GPLv3"><img src="https://img.shields.io/badge/Language-Visual%20Basic%20.NET%20-brightgreen"></a> 
+<a href="" alt="License: GPLv3"><img src="https://img.shields.io/badge/Version-2022.04.23-blue"></a>
+</p><p align="center">      
+
 qrcp_WinGUI is a simple GUI for "qrcp" to transfer files over Wi-Fi between your PC and mobile device by scanning a QR code. It's not necessary to install program or app. It's works without internet connection.
 
-The GUI was created in VB.net 2010.
+
+<h2 align="center"><b>Screenshots</b></h2>
+
+<p align="center"><a href=""><img src="https://raw.githubusercontent.com/testertv/qrcp_WinGUI.github.io/main/Imgs/scr1.png"></a></p>
 
 
-<h2 style="text-align: center;"><span style="color: #3366ff;"><strong>Screenshots</strong></span></h2>
-<a href="https://github.com/testertv/tpdne.github.io"><img src="https://raw.githubusercontent.com/testertv/qrcp_WinGUI.github.io/main/Imgs/scr1.jpg?raw=true" alt="test-pattern-152459-1280" border="0"></a>
+<h2 align="center"><b>Installation</b></h2>
+<p align="center"> 
+<a href="https://github.com/testertv/qrcp_WinGUI.github.io/raw/main/Exe-Files/qrcp_WinGUI_2022.04.23.zip" alt="License: GPLv3"><img src="https://img.shields.io/badge/Download source-qrcp_WinGUI-brightgreen.svg" width="250"></a>  
+</p><p align="center">
+
+The program is portable, but you need to put the "qrcp.exe" file in the "qrcp_WinGUI" folder. 
+<p align="center"> 
+<a href="https://github.com/claudiodangelis/qrcp" alt=""><img src="https://img.shields.io/badge/Download-qrcp-blue.svg"></a> 
+</p><p align="center">
+
+<h2 align="center"><b>Important inforamtion</b></h2>
+The path where the program is located must not contain non-English letters or spaces.
+
+<h2 align="center"><b>License</h2>
+qrcp_WinGUI is Free Software: You can use, study, share, and improve it at will. Specifically you can redistribute and/or modify it under the terms of the [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 
-- First Beta version for download: https://github.com/testertv/qrcp_WinGUI.github.io/raw/main/Exe-Files/qrcp_WinGUI_2022.04.23.zip
-
-<h3 style="text-align: center;"><span style="color: #3366ff;"><strong>Attention: the path where the program is located must not contain "spaces" or "non-English letters". The same applies to the files and directories that are transferred.</strong></span></h3>
-
-<h2 style="text-align: center;"><span style="color: #3366ff;"><strong>How does it work?</strong></span></h2>
-
-qrcp and the GUI are portable, which means no installation is necessary. Just run and use!
-
-<h2 style="text-align: center;"><span style="color: #3366ff;"><strong>Send file(s) / folder(s)</strong></span></h2>
-<a href="https://github.com/testertv/tpdne.github.io"><img src="https://github.com/testertv/qrcp_WinGUI.github.io/blob/main/Imgs/scr2.jpg?raw=true" alt="test-pattern-152459-1280" border="0"></a>
-
-<h2 style="text-align: center;"><span style="color: #3366ff;"><strong>Recieve file(s)</strong></span></h2>
-<a href="https://github.com/testertv/tpdne.github.io"><img src="https://github.com/testertv/qrcp_WinGUI.github.io/blob/main/Imgs/scr3.jpg?raw=true" alt="test-pattern-152459-1280" border="0"></a>
-
-
-
-
-qrcp_source: https://github.com/claudiodangelis/qrcp
-
-P.S.: I am not a programmer, so do not judge strictly my code!:)
